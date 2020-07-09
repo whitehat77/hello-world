@@ -1,5 +1,2 @@
 # hello-world
-
-Hi Humans!
-
-Hubot here, blah blah
+just another repository
